@@ -12,8 +12,8 @@ jobs:
 
     name: "Azure Environemt"
     env:
-      AZ_RESOURCE_GROUP: ming-rg-github-action-test
-      AKS_NAME: ming-aks-github-action-test
+      AZ_RESOURCE_GROUP: app-univ20240917-sandbox-eastus-36689
+      AKS_NAME: tf-wwlf-default-aks-1
       HELM_STORAGE_APP_NAME: azstorage
       HELM_HPCC_CLUSTER_NAME: ghhpcccluster
       HPCC_STORAGE_OUTPUT: hpcc_storage_output.txt
