@@ -12,7 +12,7 @@ jobs:
 
     name: "Azure Environemt"
     env:
-      AZ_RESOURCE_GROUP: app-univ20240917-sandbox-eastus-36689
+      AZ_RESOURCE_GROUP: app-univ20240917-sandbox-eastus-14011
       AKS_NAME: tf-wwlf-default-aks-1
       HELM_STORAGE_APP_NAME: azstorage
       HELM_HPCC_CLUSTER_NAME: ghhpcccluster
